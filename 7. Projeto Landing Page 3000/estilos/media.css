@@ -1,0 +1,197 @@
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+        text-align: center;
+        margin: 10px;
+    }
+    img{
+        display: none;
+    }
+
+    h2{
+        font-size: 38px;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+    input{
+        align-self: center;
+    }
+
+    ul{
+        text-align: center;
+    }
+
+    #text2{
+        margin-top: 40px;
+    }
+}
+
+@media screen and (max-width: 1316px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+        text-align: center;
+        margin: 10px;
+        align-items: center;
+    }
+    img{
+        margin-top: 40px;
+    }
+
+    h2{
+        font-size: 38px;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+    input{
+        align-self: center;
+    }
+
+    ul{
+        text-align: center;
+    }
+
+    #text2{
+        margin-top: 40px;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 288px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+        text-align: center;
+        margin: 10px;
+        align-items: center;
+    }
+    img{
+        display: none;
+    }
+
+    h2{
+        font-size: 28px;
+        
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+    input{
+        align-self: center;
+    }
+
+    ul{
+        text-align: center;
+    }
+
+    #text2{
+        margin-top: 40px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1590px){
+
+    h2{
+        font-size: 50px;
+        line-height: 10px;
+    }
+
+}
+
+@media screen and (max-width: 1543px){
+
+    h2{
+        font-size: 45px;
+        line-height: 10px;
+    }
+}
+    @media screen and (max-width: 1490px){
+
+        h2{
+            font-size: 40px;
+            line-height: 10px;
+        }
+    
+        @media screen and (max-width: 1459px){
+
+            h2{
+                font-size: 38px;
+                line-height: 10px;
+            }
+        
+}
+
+@media screen and (max-width: 1436px){
+
+    h2{
+        font-size: 35px;
+        line-height: 10px;
+    }
+
+}
+
+@media screen and (max-width: 1403px){
+
+    h2{
+        font-size: 32px;
+        line-height: 10px;
+    }
+
+}
+@media screen and (max-width: 1407px){
+
+    h2{
+        font-size: 32px;
+        line-height: 10px;
+    }
+
+}
+
+
+@media screen and (max-width: 1414px){
+
+    h2{
+        font-size: 30px;
+        line-height: 10px;
+    }
+
+}
+
+@media screen and (max-width: 1341px){
+
+    h2{
+        font-size: 26px;
+        line-height: 10px;
+    }
+
+}
+
+
+@media screen and (max-width: 1377px){
+
+    h2{
+        font-size: 26px;
+        line-height: 10px;
+    }
+
+}
+
+    }
